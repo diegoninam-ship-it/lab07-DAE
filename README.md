@@ -20,8 +20,3 @@
 ### 🔹 reviews en json :
 ![Imagen 5](docs/list-review.png)
 
-### agregar nueva review :
-![Imagen 2.2](docs/im7.png)
-
-### 🔹 rest de viewr:
-![Imagen 2.2](docs/im8.png)
