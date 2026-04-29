@@ -7,18 +7,20 @@
 ![Evidencia 1](docs/execution.png)
 
 ### LISTA DE PELICULAS JSON:
-![Imagen 2.2](docs/list-peli.png)
+![Imagen 2](docs/list-peli.png)
+![Imagen 2.1](docs/prueba-peli.png)
 
 ### lista GENEROS JSON:
-![Imagen 2.2](docs/list-gen.png)
+![Imagen 3](docs/list-gen.png)
+![Imagen 3.1](docs/prueba-gen.png)
 
 ### 🔹 lista RELACIONADO :
-![Imagen 2.2](docs/list-review.png)
+![Imagen 4](docs/list-rela.png)
 
 ### 🔹 reviews en json :
-![Imagen 2.2](docs/im6.png)
+![Imagen 5](docs/list-review.png)
 
-### 🔹 agregar nueva review :
+### agregar nueva review :
 ![Imagen 2.2](docs/im7.png)
 
 ### 🔹 rest de viewr:
