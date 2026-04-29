@@ -42,6 +42,7 @@ INSTALLED_APPS = [
 
     # Apps propias
     'movies',
+    'reviews',
 ]
 
 MIDDLEWARE = [
